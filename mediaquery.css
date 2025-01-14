@@ -112,4 +112,26 @@
   .project-img {
     height: 100%;
   }
+
+  .video-class{
+    width: 18rem;
+  }
+
+  .about-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    margin: 10px;
+    
+  }
+
+  .section__pic-container{
+    margin-bottom: 70px;
+  }
+  .section__pic-container2{
+    width: 150px;
+    height: 220px;
+  }
 }
